@@ -117,8 +117,8 @@ Veja abaixo as próximas Funcionalidades que serão adicionadas ao projeto:
 
 ## 🌐 Tecnologias
 
-- [React] - Biblioteca Front-End para construir Aplicações Interfaces Client-Side eficientes e escaláveis;
-- [TypeScript] - Linguagem de Programação fortemente tipada desenvolvida com base no Javascript;
+- [React]() - Biblioteca Front-End para construir Aplicações Interfaces Client-Side eficientes e escaláveis;
+- [TypeScript]() - Linguagem de Programação fortemente tipada desenvolvida com base no Javascript;
 - [Testing-library]() - Ferramenta para Testes Unitários;
 - [Mock Service Worker]() - Ferramenta para criar Mocks em aplicações front-end;
 - [PlayWright]() - Ferramenta permite a execução de testes E2E em paralelo;
