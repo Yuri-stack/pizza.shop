@@ -42,7 +42,8 @@ Dashboard Front-End desenvolvido para uma pizzaria, com visualização de pedido
 - Gráficos para Receitas Financeiras
 - Gráfico com os Produtos mais vendidos
 - Edição de Perfil
-- Recurso de carregamento otimista
+- Recurso Interface Otimista
+- Aplicação de Testes Unitários, E2E e Mocks
 
 *Para novas Funcionalidades verifique a Seção Funcionalidades Futuras*
 
@@ -116,11 +117,11 @@ Veja abaixo as próximas Funcionalidades que serão adicionadas ao projeto:
 
 ## 🌐 Tecnologias
 
-- [React]([React](https://react.dev/)) - Biblioteca Front-End para construir Aplicações Interfaces Client-Side eficientes e escaláveis;
-- [TypeScript](https://www.typescriptlang.org/) - Linguagem de Programação fortemente tipada desenvolvida com base no Javascript;
-- [Jest]() - Ferramenta de Desenvolvimento de Testes;
-
-  
+- [React] - Biblioteca Front-End para construir Aplicações Interfaces Client-Side eficientes e escaláveis;
+- [TypeScript] - Linguagem de Programação fortemente tipada desenvolvida com base no Javascript;
+- [Testing-library]() - Ferramenta para Testes Unitários;
+- [Mock Service Worker]() - Ferramenta para criar Mocks em aplicações front-end;
+- [PlayWright]() - Ferramenta permite a execução de testes E2E em paralelo;
 
 ## 📝 Licença
 

@@ -9,6 +9,9 @@
     ],
     "module": "ESNext",
     "skipLibCheck": true,
+    "types": [
+      "vitest/globals"
+    ],
     /* Bundler mode */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
@@ -30,7 +33,8 @@
     }
   },
   "include": [
-    "src"
+    "src",
+    "test"
   ],
   "references": [
     {
