@@ -25,8 +25,8 @@ Dashboard Front-End desenvolvido para uma pizzaria, com visualização de pedido
 </div>
 
 <div align="center">
-    <img src="github/assets/dash.png" alt="Dashboard"  width="240">
-    <img src="github/assets/status.png" alt="Staus Page"  width="240">
+    <img src="github/assets/dash.png" alt="Dashboard"  width="480">
+    <img src="github/assets/status.png" alt="Staus Page"  width="480">
 </div>
 
 
